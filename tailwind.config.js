@@ -3,7 +3,12 @@
 export default {
     content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
     theme: {
-        extend: {},
+        variants: {
+            extend: {
+                transform: ['hover', 'focus'],
+                scale: ['active', 'hover'],
+            },
+        },
     },
     plugins: [require('@tailwindcss/forms')],
 }
