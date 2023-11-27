@@ -11,17 +11,17 @@ function HomePage() {
                                 <img
                                     className="absolute w-[2409px] h-[1470px] top-[171px] left-[213px]"
                                     alt="Vectorb"
-                                    src="Vectorb.svg"
+                                    src="public/image/Vectorb.svg"
                                 />
                                 <img
                                     className="absolute w-[1555px] h-[1470px] top-[171px] left-[201px]"
                                     alt="layer1"
-                                    src="layer1.png"
+                                    src="public/image/layer1.png"
                                 />
                                 <img
                                     className="absolute w-[1410px] h-[1471px] top-[170px] left-[595px]"
                                     alt="Rectangle"
-                                    src="Rectangle.png"
+                                    src="public/image/Rectangle.png"
                                 />
                             </div>
                         </div>
@@ -56,7 +56,7 @@ function HomePage() {
                                 <img
                                     className="absolute w-[264px] h-[99px] top-0 left-[7px]"
                                     alt="Vector"
-                                    src="Vector.svg"
+                                    src="public/image/Vector.svg"
                                 />
                                 {/* <button className='bg-green-500 active:bg-green-700'>Log in</button> */}
                                 <div className="absolute w-full h-full top-[20px] mx-[auto] [font-family:'Inter-Regular',Helvetica] font-normal text-white text-[35px] text-center tracking-normal leading-normal">
@@ -67,7 +67,7 @@ function HomePage() {
                                 <img
                                     className="absolute w-[264px] h-[99px] top-0 left-[7px]"
                                     alt="Vector-1"
-                                    src="Vector-1.svg"
+                                    src="public/image/Vector-1.svg"
                                 />
                                 {/* <button className='bg-green-500 active:bg-green-700'>About Us</button> */}
                                 <div className="absolute w-full h-full top-[20px] mx-auto [font-family:'Inter-Regular',Helvetica] font-normal text-white text-[35px] text-center tracking-normal leading-normal">
@@ -78,7 +78,7 @@ function HomePage() {
                         <img
                             className="absolute w-[188px] h-[187px] top-[321px] left-[1879px]"
                             alt="Logo"
-                            src="CE.png"
+                            src="public/image/CE.png"
                         />
                     </div>
                 </div>
